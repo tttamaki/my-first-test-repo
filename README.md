@@ -1,8 +1,8 @@
-# my-first-test-repo
+# my-first-forktest-repo
 
 テスト用のリポジトリです．
 
-- 最初のコミットを実行します．
-- featureブランチで追加します．
-- 更にdevelopmentブランチで追加します．
+- フォークしたファイルをクローンして編集しています。
+- developブランチで編集しています。
+- add,commit,pushを行います。
 
