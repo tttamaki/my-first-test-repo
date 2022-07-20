@@ -7,3 +7,5 @@
 - 更にdevelopmentブランチで追加します．
 
 # my-first-repo
+- 課題を行う
+
